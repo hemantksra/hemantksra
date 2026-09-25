@@ -24,8 +24,8 @@ I am a Computer Science undergraduate at REVA University (Class of 2029), focusi
 
 ### 📈 GitHub Activity
 <p align="left">
-  <!-- Fixed stats URL with text_color optimized for dark mode -->
+  <!-- High-stability contribution graph, color-matched to the profile theme -->
   <a href="https://github.com/hemantksra">
-    <img src="https://github-readme-stats.vercel.app/api?username=hemantksra&show_icons=true&theme=transparent&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+    <img src="https://ghchart.rshah.org/3382ed/hemantksra" alt="Hemant's GitHub Activity Graph" />
   </a>
 </p>
